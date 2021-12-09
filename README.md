@@ -201,3 +201,5 @@
   - Time to get tricky
 
   `git version-number`
+
+A [very useful notion resource](https://www.notion.so/skyspecs/Git-Practices-6c7973eedd224240ad0cd9b4e10b9f1b) for how the robotics guild uses git
